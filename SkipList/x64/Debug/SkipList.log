@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  SkipList.cpp
+d:\skiplist\skiplist\skiplist.h(24): warning C4091: 'typedef ': ignored on left of 'zskiplistLevel' when no variable is declared
+d:\skiplist\skiplist\skiplist.h(42): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\skiplist\skiplist\skiplist.h(42): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+d:\skiplist\skiplist\skiplist.cpp(24): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  SkipList.vcxproj -> D:\SkipList\x64\Debug\SkipList.exe

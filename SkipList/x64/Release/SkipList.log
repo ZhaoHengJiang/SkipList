@@ -1,0 +1,10 @@
+﻿  SkipList.cpp
+d:\skiplist\skiplist\skiplist.h(24): warning C4091: 'typedef ': ignored on left of 'zskiplistLevel' when no variable is declared
+d:\skiplist\skiplist\skiplist.h(42): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\skiplist\skiplist\skiplist.h(42): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Generating code
+  1 of 20 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SkipList.vcxproj -> D:\SkipList\x64\Release\SkipList.exe
